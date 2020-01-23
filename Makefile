@@ -6,7 +6,7 @@ install: \
 node_modules:
 	npm install
 
-start:
+start: install
 	npx --no-install react-scripts start
 
 clean:
