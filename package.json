@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/tamakiii-sandbox/hello-react-query/issues"
   },
-  "homepage": "https://github.com/tamakiii-sandbox/hello-react-query#readme"
+  "homepage": "https://github.com/tamakiii-sandbox/hello-react-query#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-query": "^0.3.24",
+    "react-scripts": "^3.3.0"
+  }
 }
